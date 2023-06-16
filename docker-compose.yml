@@ -8,7 +8,7 @@ services:
 
     ports:
       # HTTP
-      - 7575:8181
+      - 7878:8181
     environment:
       NIFI_WEB_HTTP_PORT: 8181
 
